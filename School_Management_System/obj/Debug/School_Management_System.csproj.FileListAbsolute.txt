@@ -1,0 +1,14 @@
+E:\School Management System\School_Management_System\School_Management_System\bin\Debug\School_Management_System.exe.config
+E:\School Management System\School_Management_System\School_Management_System\bin\Debug\School_Management_System.exe
+E:\School Management System\School_Management_System\School_Management_System\bin\Debug\School_Management_System.pdb
+E:\School Management System\School_Management_System\School_Management_System\obj\Debug\School_Management_System.csprojResolveAssemblyReference.cache
+E:\School Management System\School_Management_System\School_Management_System\obj\Debug\School_Management_System.Form1.resources
+E:\School Management System\School_Management_System\School_Management_System\obj\Debug\School_Management_System.Menu.resources
+E:\School Management System\School_Management_System\School_Management_System\obj\Debug\School_Management_System.newadmission.resources
+E:\School Management System\School_Management_System\School_Management_System\obj\Debug\School_Management_System.Properties.Resources.resources
+E:\School Management System\School_Management_System\School_Management_System\obj\Debug\School_Management_System.csproj.GenerateResource.Cache
+E:\School Management System\School_Management_System\School_Management_System\obj\Debug\School_Management_System.exe
+E:\School Management System\School_Management_System\School_Management_System\obj\Debug\School_Management_System.pdb
+E:\School Management System\School_Management_System\School_Management_System\obj\Debug\School_Management_System.foradminregister.resources
+E:\School Management System\School_Management_System\School_Management_System\obj\Debug\School_Management_System.forfees.resources
+E:\School Management System\School_Management_System\School_Management_System\obj\Debug\School_Management_System.ledger.resources
